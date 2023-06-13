@@ -1,0 +1,10 @@
+* testbild
+
+Universal test output production and consumption facility
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/e-user/testbild.git   |
+| commit  | d4c2927  |
+| systems | testbild |
+|---------+-------------------------------------------|
+
